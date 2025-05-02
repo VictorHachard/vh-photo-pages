@@ -1,0 +1,17 @@
+{
+	"THEME_TOOLTIP": "Theme (light/dark)",
+	"ALL_IMAGES_BELONG": "All images belong to Victor Hachard {{year}}.",
+	"NO_IMAGE_USAGE": "Please do not use images without permission.",
+	"SEND_ME_A_MESSAGE": "Send me a message",
+	"FROM_NAME": "Name",
+	"REPLY_TO": "Email",
+	"SUBJECT": "Subject",
+	"MESSAGE": "Message",
+	"SENDING": "Sending...",
+	"SEND": "Send",
+	"SUCCESS_MESSAGE": "Thank you, your message has been sent successfully!",
+	"ERROR_MESSAGE": "Sorry, an error occurred. Please try again later.",
+	"Colab": "Colab",
+	"Un bon coin": "A good spot",
+	"Commissions": "Commissions"
+}

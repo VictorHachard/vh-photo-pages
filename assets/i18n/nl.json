@@ -1,0 +1,17 @@
+{
+	"THEME_TOOLTIP": "Thema (licht/donker)",
+	"ALL_IMAGES_BELONG": "Alle afbeeldingen behoren tot Victor Hachard {{year}}.",
+	"NO_IMAGE_USAGE": "Gebruik geen afbeeldingen zonder toestemming.",
+	"SEND_ME_A_MESSAGE": "Stuur mij een bericht",
+	"FROM_NAME": "Naam",
+	"REPLY_TO": "E-mail",
+	"SUBJECT": "Onderwerp",
+	"MESSAGE": "Bericht",
+	"SENDING": "Bezig met verzenden...",
+	"SEND": "Verstuur",
+	"SUCCESS_MESSAGE": "Bedankt, uw bericht is succesvol verzonden!",
+	"ERROR_MESSAGE": "Sorry, er is een fout opgetreden. Probeer het later opnieuw.",
+	"Colab": "Samenwerking",
+	"Un bon coin": "Een mooie plek",
+	"Commissions": "Opdrachten"
+}
