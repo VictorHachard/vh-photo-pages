@@ -305,10 +305,6 @@ lightgallery/plugins/autoplay
 
 lightgallery/plugins/fullscreen
 
-lightgallery/plugins/hash
-
-lightgallery/plugins/rotate
-
 lightgallery/plugins/zoom
 
 ng-recaptcha
