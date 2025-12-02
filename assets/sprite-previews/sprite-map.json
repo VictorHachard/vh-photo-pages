@@ -33,7 +33,7 @@
         "width": 330,
         "height": 330
       },
-      "plage": {
+      "ocean-ciel-ciel-ocean": {
         "x": 1650,
         "y": 0,
         "width": 330,
@@ -63,116 +63,110 @@
         "width": 330,
         "height": 330
       },
-      "anime": {
+      "l-inconscient": {
         "x": 0,
         "y": 330,
         "width": 330,
         "height": 330
       },
-      "capsule": {
+      "un-monde-flottant": {
         "x": 330,
-        "y": 330,
-        "width": 330,
-        "height": 330
-      },
-      "brumes": {
-        "x": 660,
         "y": 330,
         "width": 330,
         "height": 330
       },
       "structure": {
-        "x": 990,
+        "x": 660,
         "y": 330,
         "width": 330,
         "height": 330
       },
       "solitude": {
-        "x": 1320,
+        "x": 990,
         "y": 330,
         "width": 330,
         "height": 330
       },
       "portraits": {
-        "x": 1650,
+        "x": 1320,
         "y": 330,
         "width": 330,
         "height": 330
       },
-      "homme-paysage": {
-        "x": 1980,
+      "combat-contre-une-ombre": {
+        "x": 1650,
         "y": 330,
         "width": 330,
         "height": 330
       },
       "quotidien": {
-        "x": 2310,
+        "x": 1980,
         "y": 330,
         "width": 330,
         "height": 330
       },
       "soleil": {
-        "x": 2640,
+        "x": 2310,
         "y": 330,
         "width": 330,
         "height": 330
       },
       "quadrature": {
+        "x": 2640,
+        "y": 330,
+        "width": 330,
+        "height": 330
+      },
+      "le-fil-d-ariane": {
         "x": 2970,
         "y": 330,
         "width": 330,
         "height": 330
       },
-      "equilibre": {
+      "l-appel": {
         "x": 0,
         "y": 660,
         "width": 330,
         "height": 330
       },
-      "jeux": {
+      "la-montagne-magique-I": {
         "x": 330,
         "y": 660,
         "width": 330,
         "height": 330
       },
-      "yellow-I": {
+      "la-montagne-magique-II": {
         "x": 660,
         "y": 660,
         "width": 330,
         "height": 330
       },
-      "yellow-II": {
+      "vents": {
         "x": 990,
         "y": 660,
         "width": 330,
         "height": 330
       },
-      "bleu": {
+      "smart": {
         "x": 1320,
         "y": 660,
         "width": 330,
         "height": 330
       },
-      "chic": {
+      "mapplethorpe": {
         "x": 1650,
         "y": 660,
         "width": 330,
         "height": 330
       },
-      "mapplethorpe": {
-        "x": 1980,
-        "y": 660,
-        "width": 330,
-        "height": 330
-      },
       "livres": {
-        "x": 2310,
+        "x": 1980,
         "y": 660,
         "width": 330,
         "height": 330
       }
     },
-    "totalImages": 28,
+    "totalImages": 27,
     "dimensions": {
       "width": 3300,
       "height": 990
@@ -212,7 +206,7 @@
         "width": 660,
         "height": 660
       },
-      "plage": {
+      "ocean-ciel-ciel-ocean": {
         "x": 3300,
         "y": 0,
         "width": 660,
@@ -242,116 +236,110 @@
         "width": 660,
         "height": 660
       },
-      "anime": {
+      "l-inconscient": {
         "x": 0,
         "y": 660,
         "width": 660,
         "height": 660
       },
-      "capsule": {
+      "un-monde-flottant": {
         "x": 660,
-        "y": 660,
-        "width": 660,
-        "height": 660
-      },
-      "brumes": {
-        "x": 1320,
         "y": 660,
         "width": 660,
         "height": 660
       },
       "structure": {
-        "x": 1980,
+        "x": 1320,
         "y": 660,
         "width": 660,
         "height": 660
       },
       "solitude": {
-        "x": 2640,
+        "x": 1980,
         "y": 660,
         "width": 660,
         "height": 660
       },
       "portraits": {
-        "x": 3300,
+        "x": 2640,
         "y": 660,
         "width": 660,
         "height": 660
       },
-      "homme-paysage": {
-        "x": 3960,
+      "combat-contre-une-ombre": {
+        "x": 3300,
         "y": 660,
         "width": 660,
         "height": 660
       },
       "quotidien": {
-        "x": 4620,
+        "x": 3960,
         "y": 660,
         "width": 660,
         "height": 660
       },
       "soleil": {
-        "x": 5280,
+        "x": 4620,
         "y": 660,
         "width": 660,
         "height": 660
       },
       "quadrature": {
+        "x": 5280,
+        "y": 660,
+        "width": 660,
+        "height": 660
+      },
+      "le-fil-d-ariane": {
         "x": 5940,
         "y": 660,
         "width": 660,
         "height": 660
       },
-      "equilibre": {
+      "l-appel": {
         "x": 0,
         "y": 1320,
         "width": 660,
         "height": 660
       },
-      "jeux": {
+      "la-montagne-magique-I": {
         "x": 660,
         "y": 1320,
         "width": 660,
         "height": 660
       },
-      "yellow-I": {
+      "la-montagne-magique-II": {
         "x": 1320,
         "y": 1320,
         "width": 660,
         "height": 660
       },
-      "yellow-II": {
+      "vents": {
         "x": 1980,
         "y": 1320,
         "width": 660,
         "height": 660
       },
-      "bleu": {
+      "smart": {
         "x": 2640,
         "y": 1320,
         "width": 660,
         "height": 660
       },
-      "chic": {
+      "mapplethorpe": {
         "x": 3300,
         "y": 1320,
         "width": 660,
         "height": 660
       },
-      "mapplethorpe": {
-        "x": 3960,
-        "y": 1320,
-        "width": 660,
-        "height": 660
-      },
       "livres": {
-        "x": 4620,
+        "x": 3960,
         "y": 1320,
         "width": 660,
         "height": 660
       }
     },
-    "totalImages": 28,
+    "totalImages": 27,
     "dimensions": {
       "width": 6600,
       "height": 1980
