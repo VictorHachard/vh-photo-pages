@@ -7,11 +7,9 @@
 	"REPLY_TO": "E-mail",
 	"SUBJECT": "Onderwerp",
 	"MESSAGE": "Bericht",
-	"SENDING": "Bezig met verzenden...",
-	"SEND": "Verstuur",
 	"SUCCESS_MESSAGE": "Bedankt, uw bericht is succesvol verzonden!",
 	"ERROR_MESSAGE": "Sorry, er is een fout opgetreden. Probeer het later opnieuw.",
-	"Colab": "Samenwerking",
+	"Rencontre": "Samenwerking",
 	"Un bon coin": "Een mooie plek",
 	"Commissions": "Opdrachten"
 }

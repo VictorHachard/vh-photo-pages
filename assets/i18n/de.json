@@ -7,11 +7,9 @@
 	"REPLY_TO": "E-Mail",
 	"SUBJECT": "Betreff",
 	"MESSAGE": "Nachricht",
-	"SENDING": "Sende...",
-	"SEND": "Senden",
 	"SUCCESS_MESSAGE": "Vielen Dank, Ihre Nachricht wurde erfolgreich versendet!",
 	"ERROR_MESSAGE": "Entschuldigung, es ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal.",
-	"Colab": "Zusammenarbeit",
+	"Rencontre": "Zusammenarbeit",
 	"Un bon coin": "Ein schöner Ort",
 	"Commissions": "Aufträge"
 }
