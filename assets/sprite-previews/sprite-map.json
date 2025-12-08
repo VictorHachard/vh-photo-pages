@@ -58,35 +58,35 @@
       "col": 3,
       "row": 1
     },
-    "structure": {
+    "solitude": {
       "col": 4,
       "row": 1
     },
-    "solitude": {
+    "portraits": {
       "col": 5,
       "row": 1
     },
-    "portraits": {
+    "combat-contre-une-ombre": {
       "col": 6,
       "row": 1
     },
-    "combat-contre-une-ombre": {
+    "le-fil-d-ariane-1": {
       "col": 7,
       "row": 1
     },
-    "soleil": {
+    "le-fil-d-ariane-2": {
       "col": 8,
       "row": 1
     },
-    "quadrature": {
+    "soleil": {
       "col": 9,
       "row": 1
     },
-    "le-fil-d-ariane-1": {
+    "structure": {
       "col": 0,
       "row": 2
     },
-    "le-fil-d-ariane-2": {
+    "quadrature": {
       "col": 1,
       "row": 2
     },
