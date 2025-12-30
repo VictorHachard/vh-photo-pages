@@ -1,50 +1,66 @@
 {
   "10": {
-    "hash": "6951e742"
+    "hash": "6951e742",
+    "animated": false
   },
   "1": {
-    "hash": "f7d900dd"
+    "hash": "f7d900dd",
+    "animated": false
   },
   "11": {
-    "hash": "1eeee414"
+    "hash": "1eeee414",
+    "animated": false
   },
   "12": {
-    "hash": "f77e2744"
+    "hash": "f77e2744",
+    "animated": false
   },
   "13": {
-    "hash": "2d26dd0d"
+    "hash": "2d26dd0d",
+    "animated": false
   },
   "14": {
-    "hash": "f2b3bfd7"
+    "hash": "f2b3bfd7",
+    "animated": false
   },
   "7": {
-    "hash": "3836c690"
+    "hash": "3836c690",
+    "animated": false
   },
   "4": {
-    "hash": "430c6308"
+    "hash": "430c6308",
+    "animated": false
   },
   "8": {
-    "hash": "828ffb4f"
+    "hash": "828ffb4f",
+    "animated": false
   },
   "2": {
-    "hash": "d8c89515"
+    "hash": "d8c89515",
+    "animated": false
   },
   "9": {
-    "hash": "c825d5cd"
+    "hash": "c825d5cd",
+    "animated": false
   },
   "16": {
-    "hash": "dad3218c"
+    "hash": "dad3218c",
+    "animated": false
   },
   "6": {
-    "hash": "f7bb1e96"
+    "hash": "f7bb1e96",
+    "animated": false
   },
   "5": {
-    "hash": "380bd9c8"
+    "hash": "380bd9c8",
+    "animated": false
   },
   "15": {
-    "hash": "67506802"
+    "hash": "67506802",
+    "animated": false
   },
   "3": {
-    "hash": "e703261a"
+    "hash": "e703261a",
+    "animated": false
   }
 }

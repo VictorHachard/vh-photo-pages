@@ -1,14 +1,18 @@
 {
   "1": {
-    "hash": "ac277b78"
+    "hash": "ac277b78",
+    "animated": false
   },
   "4": {
-    "hash": "449a8943"
+    "hash": "449a8943",
+    "animated": false
   },
   "2": {
-    "hash": "97fef675"
+    "hash": "97fef675",
+    "animated": false
   },
   "3": {
-    "hash": "36e053e8"
+    "hash": "36e053e8",
+    "animated": false
   }
 }

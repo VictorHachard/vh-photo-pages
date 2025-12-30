@@ -1,6 +1,6 @@
 {
   "cols": 10,
-  "rows": 3,
+  "rows": 4,
   "images": {
     "absence-presence": {
       "col": 0,
@@ -86,38 +86,46 @@
       "col": 0,
       "row": 2
     },
-    "soleil": {
+    "le-fil-d-ariane-3": {
       "col": 1,
       "row": 2
     },
-    "structure": {
+    "soleil": {
       "col": 2,
       "row": 2
     },
-    "quadrature": {
+    "structure": {
       "col": 3,
       "row": 2
     },
-    "l-appel": {
+    "quadrature": {
       "col": 4,
       "row": 2
     },
-    "vents": {
+    "l-appel": {
       "col": 5,
       "row": 2
     },
-    "smart": {
+    "vents": {
       "col": 6,
       "row": 2
     },
-    "mapplethorpe": {
+    "smart": {
       "col": 7,
       "row": 2
     },
-    "livres": {
+    "montagne": {
       "col": 8,
       "row": 2
+    },
+    "mapplethorpe": {
+      "col": 9,
+      "row": 2
+    },
+    "livres": {
+      "col": 0,
+      "row": 3
     }
   },
-  "totalImages": 29
+  "totalImages": 31
 }

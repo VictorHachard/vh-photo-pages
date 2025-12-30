@@ -1,77 +1,102 @@
 {
   "10": {
-    "hash": "d857a355"
+    "hash": "d857a355",
+    "animated": false
   },
   "1": {
-    "hash": "1217a2a8"
+    "hash": "1217a2a8",
+    "animated": false
   },
   "23": {
-    "hash": "841ff937"
+    "hash": "841ff937",
+    "animated": false
   },
   "11": {
-    "hash": "5c7909a4"
+    "hash": "5c7909a4",
+    "animated": false
   },
   "19": {
-    "hash": "84db4663"
+    "hash": "84db4663",
+    "animated": false
   },
   "12": {
-    "hash": "1aa7279d"
+    "hash": "1aa7279d",
+    "animated": false
   },
   "13": {
-    "hash": "6bb4bd8e"
+    "hash": "6bb4bd8e",
+    "animated": false
   },
   "14": {
-    "hash": "e615bf61"
+    "hash": "e615bf61",
+    "animated": false
   },
   "21": {
-    "hash": "9101a9fb"
+    "hash": "9101a9fb",
+    "animated": false
   },
   "7": {
-    "hash": "32c21f8d"
+    "hash": "32c21f8d",
+    "animated": false
   },
   "4": {
-    "hash": "a5505110"
+    "hash": "a5505110",
+    "animated": false
   },
   "18": {
-    "hash": "8c765dee"
+    "hash": "8c765dee",
+    "animated": false
   },
   "8": {
-    "hash": "1dd51e57"
+    "hash": "1dd51e57",
+    "animated": false
   },
   "2": {
-    "hash": "ee695ab3"
+    "hash": "ee695ab3",
+    "animated": false
   },
   "25": {
-    "hash": "90cd627e"
+    "hash": "90cd627e",
+    "animated": false
   },
   "24": {
-    "hash": "8db55676"
+    "hash": "8db55676",
+    "animated": false
   },
   "20": {
-    "hash": "3f78620d"
+    "hash": "3f78620d",
+    "animated": false
   },
   "9": {
-    "hash": "910ee39f"
+    "hash": "910ee39f",
+    "animated": false
   },
   "16": {
-    "hash": "76cd4ab8"
+    "hash": "76cd4ab8",
+    "animated": false
   },
   "6": {
-    "hash": "8b781382"
+    "hash": "8b781382",
+    "animated": false
   },
   "5": {
-    "hash": "fefd41cf"
+    "hash": "fefd41cf",
+    "animated": false
   },
   "17": {
-    "hash": "17b9bdb4"
+    "hash": "17b9bdb4",
+    "animated": false
   },
   "15": {
-    "hash": "3122dcfe"
+    "hash": "3122dcfe",
+    "animated": false
   },
   "3": {
-    "hash": "5b62f9c2"
+    "hash": "5b62f9c2",
+    "animated": false
   },
   "22": {
-    "hash": "b5158991"
+    "hash": "b5158991",
+    "animated": false
   }
 }

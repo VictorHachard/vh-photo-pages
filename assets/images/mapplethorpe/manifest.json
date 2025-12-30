@@ -1,8 +1,10 @@
 {
   "1": {
-    "hash": "73ad572f"
+    "hash": "73ad572f",
+    "animated": false
   },
   "2": {
-    "hash": "fdcaae6c"
+    "hash": "fdcaae6c",
+    "animated": false
   }
 }

@@ -1,32 +1,42 @@
 {
   "10": {
-    "hash": "d607c20e"
+    "hash": "d607c20e",
+    "animated": false
   },
   "1": {
-    "hash": "70e70df6"
+    "hash": "70e70df6",
+    "animated": false
   },
   "7": {
-    "hash": "f94c83eb"
+    "hash": "f94c83eb",
+    "animated": false
   },
   "4": {
-    "hash": "4e37a543"
+    "hash": "4e37a543",
+    "animated": false
   },
   "8": {
-    "hash": "01d3aa93"
+    "hash": "01d3aa93",
+    "animated": false
   },
   "2": {
-    "hash": "b8d6e9f7"
+    "hash": "b8d6e9f7",
+    "animated": false
   },
   "9": {
-    "hash": "b885d524"
+    "hash": "b885d524",
+    "animated": false
   },
   "6": {
-    "hash": "e45763be"
+    "hash": "e45763be",
+    "animated": false
   },
   "5": {
-    "hash": "ee2eeae5"
+    "hash": "ee2eeae5",
+    "animated": false
   },
   "3": {
-    "hash": "5f4ae1b3"
+    "hash": "5f4ae1b3",
+    "animated": false
   }
 }
