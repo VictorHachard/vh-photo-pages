@@ -58,7 +58,7 @@
       "col": 3,
       "row": 1
     },
-    "mysterieux": {
+    "levitations": {
       "col": 4,
       "row": 1
     },
@@ -102,30 +102,34 @@
       "col": 4,
       "row": 2
     },
-    "l-appel": {
+    "quadrature-2": {
       "col": 5,
       "row": 2
     },
-    "vents": {
+    "l-appel": {
       "col": 6,
       "row": 2
     },
-    "smart": {
+    "vents": {
       "col": 7,
       "row": 2
     },
-    "montagne": {
+    "smart": {
       "col": 8,
       "row": 2
     },
-    "mapplethorpe": {
+    "montagne": {
       "col": 9,
       "row": 2
     },
-    "livres": {
+    "mapplethorpe": {
       "col": 0,
+      "row": 3
+    },
+    "livres": {
+      "col": 1,
       "row": 3
     }
   },
-  "totalImages": 31
+  "totalImages": 32
 }
