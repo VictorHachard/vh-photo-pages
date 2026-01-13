@@ -90,46 +90,50 @@
       "col": 1,
       "row": 2
     },
-    "soleil": {
+    "le-fil-d-ariane-4": {
       "col": 2,
       "row": 2
     },
-    "structure": {
+    "soleil": {
       "col": 3,
       "row": 2
     },
-    "quadrature": {
+    "structure": {
       "col": 4,
       "row": 2
     },
-    "quadrature-2": {
+    "quadrature": {
       "col": 5,
       "row": 2
     },
-    "l-appel": {
+    "quadrature-2": {
       "col": 6,
       "row": 2
     },
-    "vents": {
+    "l-appel": {
       "col": 7,
       "row": 2
     },
-    "smart": {
+    "vents": {
       "col": 8,
       "row": 2
     },
-    "montagne": {
+    "smart": {
       "col": 9,
       "row": 2
     },
-    "mapplethorpe": {
+    "montagne": {
       "col": 0,
       "row": 3
     },
-    "livres": {
+    "mapplethorpe": {
       "col": 1,
+      "row": 3
+    },
+    "livres": {
+      "col": 2,
       "row": 3
     }
   },
-  "totalImages": 32
+  "totalImages": 33
 }
