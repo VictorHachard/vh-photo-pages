@@ -21,6 +21,8 @@
 	"REPLY_TO": "Email",
 	"SUBJECT": "Subject",
 	"MESSAGE": "Message",
+	"SENDING": "Sending...",
+	"SEND": "Send",
 	"SUCCESS_MESSAGE": "Thank you, your message has been sent successfully!",
 	"ERROR_MESSAGE": "Sorry, an error occurred. Please try again later.",
 	"Jet d'encre pigmentaire haute qualité": "High-quality pigment inkjet printing",

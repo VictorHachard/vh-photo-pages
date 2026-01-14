@@ -21,6 +21,8 @@
 	"REPLY_TO": "E-Mail",
 	"SUBJECT": "Betreff",
 	"MESSAGE": "Nachricht",
+	"SENDING": "Wird gesendet...",
+	"SEND": "Senden",
 	"SUCCESS_MESSAGE": "Vielen Dank, Ihre Nachricht wurde erfolgreich versendet!",
 	"ERROR_MESSAGE": "Entschuldigung, es ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal.",
 	"Jet d'encre pigmentaire haute qualité": "Hochwertiger Pigmenttintenstrahldruck",

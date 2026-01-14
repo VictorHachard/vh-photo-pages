@@ -21,6 +21,8 @@
 	"REPLY_TO": "E-mail",
 	"SUBJECT": "Onderwerp",
 	"MESSAGE": "Bericht",
+	"SENDING": "Bezig met verzenden...",
+	"SEND": "Verzenden",
 	"SUCCESS_MESSAGE": "Bedankt, uw bericht is succesvol verzonden!",
 	"ERROR_MESSAGE": "Sorry, er is een fout opgetreden. Probeer het later opnieuw.",
 	"Jet d'encre pigmentaire haute qualité": "Hoogwaardige pigmentinkjetdruk",
