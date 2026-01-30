@@ -30,110 +30,114 @@
       "col": 6,
       "row": 0
     },
-    "la-vacance": {
+    "la-montagne-magique-3": {
       "col": 7,
+      "row": 0
+    },
+    "la-vacance": {
+      "col": 8,
       "row": 0
     },
     "ocean-ciel-ciel-ocean": {
-      "col": 8,
+      "col": 9,
       "row": 0
     },
     "le-savon": {
-      "col": 9,
-      "row": 0
+      "col": 0,
+      "row": 1
     },
     "vino": {
-      "col": 0,
+      "col": 1,
       "row": 1
     },
     "street-photographie": {
-      "col": 1,
+      "col": 2,
       "row": 1
     },
     "pride": {
-      "col": 2,
+      "col": 3,
       "row": 1
     },
     "l-inconscient": {
-      "col": 3,
+      "col": 4,
       "row": 1
     },
     "levitations": {
-      "col": 4,
+      "col": 5,
       "row": 1
     },
     "un-monde-flottant": {
-      "col": 5,
+      "col": 6,
       "row": 1
     },
     "solitude": {
-      "col": 6,
+      "col": 7,
       "row": 1
     },
     "portraits": {
-      "col": 7,
+      "col": 8,
       "row": 1
     },
     "combat-contre-une-ombre": {
-      "col": 8,
+      "col": 9,
       "row": 1
     },
     "le-fil-d-ariane-1": {
-      "col": 9,
-      "row": 1
+      "col": 0,
+      "row": 2
     },
     "le-fil-d-ariane-2": {
-      "col": 0,
+      "col": 1,
       "row": 2
     },
     "le-fil-d-ariane-3": {
-      "col": 1,
+      "col": 2,
       "row": 2
     },
     "le-fil-d-ariane-4": {
-      "col": 2,
-      "row": 2
-    },
-    "soleil": {
       "col": 3,
       "row": 2
     },
-    "structure": {
+    "soleil": {
       "col": 4,
       "row": 2
     },
-    "quadrature": {
+    "structure": {
       "col": 5,
       "row": 2
     },
-    "quadrature-2": {
+    "quadrature": {
       "col": 6,
       "row": 2
     },
-    "l-appel": {
+    "quadrature-2": {
       "col": 7,
       "row": 2
     },
-    "vents": {
+    "l-appel": {
       "col": 8,
       "row": 2
     },
-    "smart": {
+    "vents": {
       "col": 9,
       "row": 2
     },
-    "montagne": {
+    "smart": {
       "col": 0,
       "row": 3
     },
-    "mapplethorpe": {
+    "montagne": {
       "col": 1,
       "row": 3
     },
-    "livres": {
+    "mapplethorpe": {
       "col": 2,
+      "row": 3
+    },
+    "livres": {
+      "col": 3,
       "row": 3
     }
   },
-  "totalImages": 33
+  "totalImages": 34
 }
