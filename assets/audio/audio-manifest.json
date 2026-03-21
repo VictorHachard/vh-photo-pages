@@ -1,5 +1,9 @@
 {
-  "src/assets/audio/absence-presence.opus": "3f7bbfb4778e4ba7477ba245c7be2762f691de13",
-  "src/assets/audio/glove-my-love.opus": "ba3c50480b871bb82c23b76f8cf2ed83570b74fe",
-  "src/assets/audio/la-vacance.opus": "960c891f48cf1471c93ecdeb7fb8f267a762de9b"
+  "src/assets/audio/absence-presence.opus": "574f53ffc3f4e7c0ee8c1227d77c666385bce749",
+  "src/assets/audio/glove-my-love.opus": "c76259c16e6653a8d8befecf6300daeb0616dc63",
+  "src/assets/audio/la-vacance.opus": "6544af5fdb3f8ec69fd367afc8b5db2538d20259",
+  "src/assets/audio/la-savon.opus": "fe172b5ee8411a2da00f49afa3823c70c90efd98",
+  "src/assets/audio/street-photographie.opus": "23283eedbba290fdfdb5d58c70af7bbc8cf9ef4a",
+  "src/assets/audio/pride.opus": "c9607de6fbf7b486d7ab504b8d9260895b508eef",
+  "src/assets/audio/mapplethorpe.opus": "c8e41cee991dabc0b9303b223d44084e91a1099c"
 }
