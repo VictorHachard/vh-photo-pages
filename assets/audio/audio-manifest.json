@@ -1,9 +1,10 @@
 {
-  "src/assets/audio/absence-presence.opus": "574f53ffc3f4e7c0ee8c1227d77c666385bce749",
-  "src/assets/audio/glove-my-love.opus": "c76259c16e6653a8d8befecf6300daeb0616dc63",
-  "src/assets/audio/la-vacance.opus": "6544af5fdb3f8ec69fd367afc8b5db2538d20259",
-  "src/assets/audio/la-savon.opus": "fe172b5ee8411a2da00f49afa3823c70c90efd98",
-  "src/assets/audio/street-photographie.opus": "23283eedbba290fdfdb5d58c70af7bbc8cf9ef4a",
-  "src/assets/audio/pride.opus": "c9607de6fbf7b486d7ab504b8d9260895b508eef",
-  "src/assets/audio/mapplethorpe.opus": "c8e41cee991dabc0b9303b223d44084e91a1099c"
+  "src/assets/audio/absence-presence.opus": "346bd1eb35f0af6590d982df977e03be2df42eb3",
+  "src/assets/audio/glove-my-love.opus": "9e69473fce06180aaa99e6af3fb351e5ef6dbbff",
+  "src/assets/audio/la-vacance.opus": "e654daa20e07a717fc9705187a823532f6a23d6e",
+  "src/assets/audio/la-savon.opus": "85cac456b6be2aad3b41612d399d6ac9637c4404",
+  "src/assets/audio/vino.opus": "ef2f28693cdcbdf71735f56e12303fcb42331b84",
+  "src/assets/audio/street-photographie.opus": "89c9af48398558ff0bbe4aea8617d7350f60fc98",
+  "src/assets/audio/pride.opus": "370bcd60aaf846c4412195892271aafee239695c",
+  "src/assets/audio/mapplethorpe.opus": "ee45ae91ae2fda6b6d50b56e3e15653d179c6ba1"
 }
